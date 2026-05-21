@@ -15,15 +15,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fspaulohenrique&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fspaulohenrique&layout=compact)
-
----
-
 ## 📌 Projetos em destaque
 
 🚧 Atualizando projetos com foco em Data Engineering
