@@ -33,5 +33,4 @@
 
 ## 📫 Contato
 
-- 💼 LinkedIn: (coloca aqui)
-- 📧 Email: (opcional)
+- 💼 LinkedIn: https://www.linkedin.com/in/fspaulohenrique/
