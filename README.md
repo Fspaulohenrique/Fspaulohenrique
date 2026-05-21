@@ -1,25 +1,37 @@
-## Bem-vindo(a) ao meu perfil!
+# 👋 Olá, eu sou o Paulo Henrique
 
-<div>
-  <a href="https://github.com/fspaulohenrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fspaulohenrique&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fspaulohenrique&layout=compact&langs_count=6&theme=highcontrast"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Meus dados de contato e redes sociais!
- 
-<div> 
-  <a href="https://instagram.com/fspaulohenrique" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fspaulohenrique@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fspaulohenrique" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+🎯 **Em transição para Data Engineer | Backend Python**  
+💻 Experiência com dados, suporte técnico e ambientes corporativos  
+🚀 Focado em construir projetos reais com dados e engenharia
 
-</div>
+---
 
+## 🧠 Tecnologias e Ferramentas
+
+💡 **Linguagens & Dados**
+- 🐍 Python  
+- 🗄️ SQL  
+- ⚡ Apache Spark  
+- 📊 Databricks  
+
+🌐 **Web & Backend**
+- 🟨 JavaScript  
+- 🌍 HTML / CSS  
+- 🔗 APIs & Integrações  
+
+📈 **Observabilidade & Ferramentas**
+- 📊 Grafana  
+- 🔍 Kibana  
+
+---
+
+## 📌 Projetos em destaque
+
+🚧 Em construção — atualizando projetos com foco em Data Engineering
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: (coloca aqui)
+- 📧 Email: (opcional)
