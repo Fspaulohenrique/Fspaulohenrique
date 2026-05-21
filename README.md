@@ -1,12 +1,12 @@
-# 👋 Olá, eu sou o Paulo Henrique
+# 👋 Hello, I'm Paulo Henrique
 
-🎯 **Data Engineer em construção | Backend Python**  
-💻 Experiência com dados, suporte técnico e ambientes corporativos  
-🚀 Construindo projetos práticos com foco em engenharia de dados  
+🎯 **Data-focused professional expanding into Data Engineering and Backend Python**  
+💻 Experience with analytics, monitoring, and real-world systems  
+🚀 Building practical projects focused on data pipelines and backend development  
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -15,12 +15,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-## 📌 Projetos em destaque
 
-🚧 Atualizando projetos com foco em Data Engineering
+## 📌 Featured Projects
+
+🚧 Currently updating projects to reflect a strong focus on Data Engineering
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - 💼 LinkedIn: https://www.linkedin.com/in/fspaulohenrique/
