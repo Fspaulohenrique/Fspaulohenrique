@@ -18,7 +18,7 @@
 
 ## 📌 Featured Projects
 
-🚧 Currently updating projects to reflect a strong focus on Data Engineering
+Selected projects demonstrating experience with data pipelines, IoT systems, and data processing using Python and Spark.
 
 ---
 
